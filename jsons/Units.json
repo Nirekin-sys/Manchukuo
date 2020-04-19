@@ -2,6 +2,8 @@
 	{
 		"name": "Skull Squad",
 		"unitType": "Mounted",
+		"uniqueTo": "Manchukuo",
+		"replaces": "Landship",
 		"movement": 4,
 		"strength": 53,
 		"cost": 330,
