@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Skull Squad",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 53,
+		"cost": 330,
+		"requiredTech": "Combustion",
+		"requiredResource": "Horses",
+		"upgradesTo": "Tank",
+		"obsoleteTech": "Combined Arms",
+		"uniques": ["Can move after attacking","No defensive terrain bonus","Ignores terrain cost"],
+		"hurryCostModifier": 20
+	}
+]
