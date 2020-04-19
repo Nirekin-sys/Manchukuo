@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Showa Steel Works",
+		"replaces": "Factory",
+		"uniqueTo": "Manchukuo",
+		"production": 5,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"production": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"cost": 200,
+		"hurryCostModifier": 20,
+		"requiredTech": "Industrialization"
+	}
+]
